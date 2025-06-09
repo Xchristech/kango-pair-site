@@ -80,7 +80,7 @@ var randomItem = selectRandomItem(items);
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `*Hello there CHRISM-XD User! 👋🏻* 
 
-> Do not share your session id with your gf 😂.
+> Do not share your session id with your babe 😂.
 
  *Thanks for using CHRISM-XD ♠️* 
 
