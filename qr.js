@@ -77,28 +77,28 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "KANGO~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hello there KANGO-XMD User! 👋🏻* 
+                        let desc = `*Hello there CHRISM-XD User! 👋🏻* 
 
-> Do not share your session id with your gf 😂.
+> Do not share your session id with your babe 😂.
 
- *Thanks for using KANGO-XMD 🚩* 
+ *Thanks for using CHRISM-XD ♠️* 
 
 > Join WhatsApp Channel :- ⤵️
  
-https://whatsapp.com/channel/0029Va8YUl50bIdtVMYnYd0E
+https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t
 
 Dont forget to fork the repo ⬇️
 
-https://github.com/OfficialKango/KANGO-XMD
+https://github.com/Xchristech/CHRISM-XD 
 
-> *© Powered BY Hector Manuel 🖤*`; 
+> *© Powered BY Chris Gaaju 🖤*`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "Hector Manuel",
-thumbnailUrl: "https://i.imgur.com/GVW7aoD.jpeg",
-sourceUrl: "https://whatsapp.com/channel/0029Va8YUl50bIdtVMYnYd0E",
+title: "Chris Gaaju",
+thumbnailUrl: "https://files.catbox.moe/3z92pr.png",
+sourceUrl: "https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -112,9 +112,9 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "KANGO-XMD",
-thumbnailUrl: "https://i.imgur.com/GVW7aoD.jpeg",
-sourceUrl: "https://whatsapp.com/channel/0029Va8YUl50bIdtVMYnYd0E",
+title: "CHRISM-XD",
+thumbnailUrl: "https://files.catbox.moe/3z92pr.png",
+sourceUrl: "https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
